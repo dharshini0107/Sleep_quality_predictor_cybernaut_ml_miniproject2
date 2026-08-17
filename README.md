@@ -1,4 +1,4 @@
-# Sleep_quality_predictor_cybernaut_ml_miniproject2
+# Sleep_quality_predictor
 💤 Sleep Quality Predictor
 
 A Python-based Machine Learning application that predicts a user’s sleep quality based on lifestyle and sleep-related factors.
